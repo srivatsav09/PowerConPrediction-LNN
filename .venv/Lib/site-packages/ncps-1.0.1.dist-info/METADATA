@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: ncps
+Version: 1.0.1
+Summary: Neural Circuit Policies for PyTorch, Tensorflow, and Keras V3
+Home-page: https://github.com/mlech26l/ncps
+Author: Mathias Lechner
+Author-email: mlech26l@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Operating System :: Unix
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: MacOS
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Software Development
+License-File: LICENSE
+Requires-Dist: future
+Requires-Dist: packaging
+
+UNKNOWN
+
